@@ -1,0 +1,67 @@
+body {
+   background-color: black;
+   color: white;
+}
+article {
+   text-align: center;
+}
+a {
+   text-decoration: none;
+   color: inherit;
+}
+p {
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: 0;
+}
+.cities{
+   margin: 1em;
+   margin-top: 3em;
+   text-align: right;
+}
+.button{
+   border-radius: 5px;
+   border-width: medium;
+   border-color: white;
+   border-style: solid;
+   padding: 0.5em;
+   font-size: 50px;
+   font-family: cursive;
+}
+.bt_change_city{
+   align-self: center;
+   background-color: black;
+   color: white;
+   border-width: 3px;
+   border-color: white;
+   width:1200px;
+   font-size: 30px;
+   margin-bottom: 15px;
+}
+.city_name {
+   font-size: 170px;
+   font-family: cursive;
+}
+.temps_text {
+   font-size: 100px;
+   font-family: cursive;
+}
+.att_text {
+   font-size: 50%;
+   font-family: cursive;
+}
+.infoCidade {
+   text-align: center;
+   margin-top: 40%;
+}
+.city_bt{
+   border-width: medium;
+   border-bottom-width: 0px;
+   border-color: white;
+   border-style: solid;
+   width: 98.5%;
+}
+
+#last_bt {
+   border-bottom-width: medium;
+}
